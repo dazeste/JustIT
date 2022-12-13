@@ -1,4 +1,4 @@
 # JustIT
-Week 1 Project - HTML, CSS, JavaScript
+MyProjects - HTML, CSS, JavaScript
 
 
